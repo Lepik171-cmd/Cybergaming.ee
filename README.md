@@ -10,3 +10,5 @@
 - [ ] SMTP
 - [ ] Custom Docker files
 - [ ] Custom Design
+- [ ] Translation
+
