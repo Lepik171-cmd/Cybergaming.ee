@@ -1,2 +1,2 @@
 # Cybergaming.ee
-Hosting
+# TO-DO
