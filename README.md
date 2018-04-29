@@ -10,5 +10,5 @@
 - [x] SMTP (bug)
 - [ ] Custom Docker files
 - [ ] Custom Design
-- [ ] Translation
+- [ ] Translation ( handled by lumineo )
 
