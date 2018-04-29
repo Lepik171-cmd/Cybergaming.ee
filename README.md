@@ -7,7 +7,7 @@
 - [ ] Account adding to panel
 
 ### Panel
-- [ ] SMTP
+- [x] SMTP (bug)
 - [ ] Custom Docker files
 - [ ] Custom Design
 - [ ] Translation
